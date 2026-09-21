@@ -1,0 +1,46 @@
+body{
+    background-image:url('../image/minecraft.png');
+}
+.text{
+    border-radius:10px;
+    width:1250px;
+    height:50px;
+    background-color:#777;
+    a:link,a:valid{
+    direction:block;
+    width:500px;
+    color:black;
+    text-align:center;
+    height:50px;
+    margin:80px;
+    text-decoration:none;
+}}
+ul{
+    list-style-type:none;
+
+}
+li{
+    float:right;
+}
+.a:hover{
+    background-color:aqua;
+    
+}
+a{
+    color:black;
+    font-size:33px;
+}
+.text1{
+    img{
+        height:60px;
+        width:60px;
+    }
+}
+body{
+    background-image: url(../image/minecraft.png);
+    background-size: cover;
+    text-align: center;
+}
+.text2{
+    text-align: center;
+}

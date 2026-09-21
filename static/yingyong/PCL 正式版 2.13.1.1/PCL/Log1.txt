@@ -1,0 +1,57 @@
+15:26:55.356 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+15:26:55.389 I [Application] 程序版本：正式版 2.13.1.1 (408)
+15:26:55.389 I [Application] 识别码：05FA-BB6D-D13D-F6AA
+15:26:55.389 I [Application] 程序路径：C:\Users\*****\Desktop\PCL 正式版 2.13.1.1\Plain Craft Launcher 2.exe
+15:26:55.390 I [Application] 系统编码：gb2312 (936, GBK=True)
+15:26:55.391 I [Application] 管理员权限：False
+15:26:55.391 I [Application] 第一阶段加载用时：62 ms
+15:26:55.523 I [FormMain] 全新的 PCL，使用新的版本隔离默认值
+15:26:55.532 I [ModSecret] 刷新主题：0
+15:26:55.569 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+15:26:55.570 I [FormMain] 第二阶段加载用时：173 ms
+15:26:55.576 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+15:26:55.672 I [FormMain] 从设置更新背景图片与标题栏样式
+15:26:55.714 I [FormMain] 窗口已置顶，位置：(190, 101.333333333333), 900 x 550
+15:26:55.718 I <7 · Animation> [ModAnimation] 动画线程开始
+15:26:55.718 I [FormMain] 第三阶段加载用时：50 ms
+15:26:55.727 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：C:\Users\*****\Desktop\PCL 正式版 2.13.1.1\.minecraft\
+15:26:55.728 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：null
+15:26:55.734 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+15:26:55.745 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：无
+15:26:55.745 I <12 · L/Minecraft Instance List> [ModMinecraft] 未找到可用 Minecraft 版本
+15:26:55.745 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+15:26:55.752 I <11 · Version Check> [PageLaunchLeft] 无可用 Minecraft 版本
+15:26:55.781 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Loading
+15:26:55.785 I <14 · L/Loader Skin Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Skin Legacy 状态改变：Finished
+15:26:55.823 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+15:26:55.823 I [PageLaunchLeft] 启动按钮：无 Minecraft 版本，要求下载
+15:26:55.826 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+15:26:55.828 I <15 · L/登录> [ModLaunch] 登录加载已开始
+15:26:55.828 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Loading
+15:26:55.829 I <16 · L/Loader Login Legacy> [ModLaunch] 登录方式：离线（WRmingjian）
+15:26:55.831 I <16 · L/Loader Login Legacy> [ModLoader] 加载器 LoaderTask`2 Loader Login Legacy 状态改变：Finished
+15:26:55.841 I [MySkin] 载入头像成功：Loader Skin Legacy
+15:26:55.841 I [ModAnimation] 两个动画帧间隔 109 ms
+15:26:55.845 I <15 · L/登录> [ModLaunch] 登录加载已结束
+15:26:55.845 I <15 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+15:26:55.898 I <9 · 初始化> [ModJava] 共有 4 个可用的 Java：
+15:26:55.898 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+15:26:55.898 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\*****\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+15:26:55.898 I <9 · 初始化> [ModJava] - Java 17 (17.0.19.0)：C:\Users\*****\AppData\Roaming\ModrinthApp\meta\java_versions\zulu17.66.19-ca-jre17.0.19-win_x64\bin\
+15:26:55.898 I <9 · 初始化> [ModJava] - Java 17 (17.0.10.0)：C:\Program Files\Java\jdk-17\bin\
+15:26:56.002 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+15:26:56.005 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+15:26:56.006 I <19 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+15:26:56.007 I <17 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+15:26:56.007 I <19 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+15:26:56.008 I <20 · Telemetry> [ModMain] 匿名数据上报：启动
+15:26:56.016 I <18 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+15:26:56.016 I <18 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+15:26:56.402 I <18 · L/PCL 配置更新> [ModSecret] 本地公告编号：224，服务器公告：224|410|408|5|38，无需更新
+15:26:56.406 I <18 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+15:26:56.442 I [FormMain] DPI：144，系统版本：Microsoft Windows NT 10.0.26200.0，PCL 位置：C:\Users\*****\Desktop\PCL 正式版 2.13.1.1\Plain Craft Launcher 2.exe
+15:26:56.747 I <17 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：742ms，可优先使用官方源
+15:26:56.749 I <17 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+15:26:57.466 I [MyIconButton] 按下图标按钮：BtnTitleClose
+15:26:57.469 I [FormMain] 收到关闭指令
+15:26:57.696 I [FormMain] 程序已退出，返回值：Success

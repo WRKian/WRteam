@@ -1,0 +1,13 @@
+{
+    "profiles":  {
+        "PCL": {
+            "icon": "Grass",
+            "name": "PCL",
+            "lastVersionId": "latest-release",
+            "type": "latest-release",
+            "lastUsed": "2026-09-20T15:26:42.0000Z"
+        }
+    },
+    "selectedProfile": "PCL",
+    "clientToken": "23323323323323323323323323323333"
+}
